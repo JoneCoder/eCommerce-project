@@ -1,3 +1,3 @@
 # eCommerce-project
-<img src="images/redDoor.png" width="250" height="200"/>
+<img src="assets/images/redDoor.png"/>
 This site development by RedDoor term.
